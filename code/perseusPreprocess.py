@@ -38,12 +38,18 @@ def getPerseusContent(text):
     # http://stackoverflow.com/questions/3711856/remove-empty-lines
     text = " ".join([(ll.rstrip()).strip() for ll in text.splitlines() if ll.strip()])
         
-    # Remove index (could not figure out a way to use unlink node to do this)
+    # Remove index in some Cicero files (could not figure out a way to use unlink node to do this)
     if text.find('<div1 type="book" n="index">') != -1:
         indexStart = text.find('<div1 type="book" n="index">')
         indexEnd = text.find('</div1>',indexStart)
-        text = text[:indexStart] + text[indexEnd+7:]    
-    
+        text = text[:indexStart] + text[indexEnd+7:]
+
+    # Remove introduction in Terence files ((could not figure out a way to use unlink node to do this)    
+    if text.find('<div1 type="act" n="introduction">') != -1:
+        indexStart = text.find('<div1 type="act" n="introduction">')
+        indexEnd = text.find('</div1>',indexStart)
+        text = text[:indexStart] + text[indexEnd+7:]
+
     # Separate major divisions (using a reasonable gap width)
     # e.g. <div1 type="satire".+?>
     text = re.sub(r'(<div1.+?>)',r'\n++++++++++\n\1',text)
@@ -62,7 +68,7 @@ def getPerseusContent(text):
     doc = libxml2.parseDoc(text)
     
     # Delete non-content text included in the body of file using unlinkNode()
-    unlinks = ['teiHeader','front','back','head','argument','bibl','castList','note','speaker']
+    unlinks = ['teiHeader','front','back','stage','head','argument','bibl','castList','note','speaker']
     
     for unlink in unlinks:
         if unlink in text:

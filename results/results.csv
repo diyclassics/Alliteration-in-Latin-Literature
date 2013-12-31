@@ -1,0 +1,148 @@
+"file","author","date","genre","type","words","ab","sat"
+"apuleius.ap_lat.txt","Apuleius",-653784,"Misc","P",21825,52.516609,165.651775
+"apuleius.fl_lat.txt","Apuleius",-653784,"Misc","P",7862,53.566268,163.73391
+"apuleius.ga_lat.txt","Apuleius",-653784,"Novel","P",53687,55.400991,167.724514
+"caes.bc_lat.txt","Caesar",-735599,"History","P",32323,62.793584,184.616341
+"caes.bg_lat.txt","Caesar",-735599,"History","P",51188,56.337657,169.27061
+"cat_lat.txt","Catullus",-739251,"Misc","V",12976,61.808261,186.50185
+"cels_lat.txt","Celsus",-701265,"Misc","P",101576,63.178546,193.026384
+"cic.academica_lat.txt","Cicero",-735233,"Misc","P",4888,63.443535,200.332242
+"cic.adbrutum_lat.txt","Cicero",-735233,"Misc","P",9785,53.368932,163.55953
+"cic.amic_falc_lat.txt","Cicero",-735233,"Misc","P",9299,61.157221,190.708893
+"cic.att_lat.txt","Cicero",-735233,"Misc","P",128906,55.80108,173.484462
+"cic.brut_lat.txt","Cicero",-735233,"Misc","P",25021,59.069542,182.96463
+"cic.deoratore_lat.txt","Cicero",-735233,"Misc","P",62059,60.5221,188.109412
+"cic.div_falc_lat.txt","Cicero",-735233,"Misc","P",27543,64.352358,192.641107
+"cic.div_lat.txt","Cicero",-735233,"Misc","P",28347,64.086253,191.636011
+"cic.fam_lat.txt","Cicero",-735233,"Misc","P",121002,54.222228,166.906299
+"cic.fat_lat.txt","Cicero",-735233,"Misc","P",5560,68.244604,198.539568
+"cic.fin_lat.txt","Cicero",-735233,"Misc","P",47252,58.066283,182.140354
+"cic.luc_lat.txt","Cicero",-735233,"Misc","P",18029,59.513617,185.08747
+"cic.n.d_lat.txt","Cicero",-735233,"Misc","P",35720,62.297872,193.324748
+"cic.oct1_lat.txt","Cicero",-735233,"Misc","P",72280,57.245711,177.302712
+"cic.oct2_lat.txt","Cicero",-735233,"Misc","P",72820,56.813787,172.869541
+"cic.oct3_lat.txt","Cicero",-735233,"Misc","P",106050,59.19802,178.77322
+"cic.oct4_lat.txt","Cicero",-735233,"Misc","P",66924,57.364712,178.204411
+"cic.oct5_lat.txt","Cicero",-735233,"Misc","P",62720,57.673469,177.799107
+"cic.oct6_lat.txt","Cicero",-735233,"Misc","P",34926,57.43784,178.180954
+"cic.off_lat.txt","Cicero",-735233,"Misc","P",34322,60.884506,183.478702
+"cic.opt_lat.txt","Cicero",-735233,"Misc","P",1604,67.578554,201.241895
+"cic.orat_lat.txt","Cicero",-735233,"Misc","P",18490,61.952948,190.26609
+"cic.parad_lat.txt","Cicero",-735233,"Misc","P",4676,59.307956,189.402908
+"cic.part_lat.txt","Cicero",-735233,"Misc","P",9939,74.460308,225.387061
+"cic.pet_lat.txt","Cicero",-735233,"Misc","P",4357,57.526509,173.809043
+"cic.q.fr_lat.txt","Cicero",-735233,"Misc","P",18767,56.707678,171.549315
+"cic.rep_lat.txt","Cicero",-735233,"Misc","P",21988,55.84919,170.639622
+"cic.sen_falc_lat.txt","Cicero",-735233,"Misc","P",8265,59.133091,180.940109
+"cic.top_lat.txt","Cicero",-735233,"Misc","P",6901,67.106072,202.752934
+"cic.tusc_lat.txt","Cicero",-735233,"Misc","P",52342,63.07856,190.445837
+"columella_agricola01_lat.txt","Columella",-693960,"Misc","P",37182,48.862837,158.319509
+"columella_agricola02_lat.txt","Columella",-693960,"Misc","P",40799,51.819922,161.410868
+"curtius.alex_lat.txt","Curtius",-699804,"History","P",74231,50.137665,158.714526
+"florus.epit_lat.txt","Florus",-672046,"History","P",26189,57.76513,175.364542
+"gel_lat.txt","Aulus Gellius",-653784,"Misc","P",110173,57.553366,178.062266
+"hor.ap_lat.txt","Horace",-722450,"Misc","V",3090,53.368932,163.695793
+"hor.carm_lat.txt","Horace",-722450,"Misc","V",13398,35.572623,124.586058
+"hor.carmsaec_lat.txt","Horace",-722450,"Misc","V",314,46.770701,160.420382
+"hor.epist_lat.txt","Horace",-722450,"Misc","V",9905,41.200909,140.756184
+"hor.epodes_lat.txt","Horace",-722450,"Misc","V",3020,40.721854,142.701987
+"hor.sat_lat.txt","Horace",-722450,"Satire","V",14215,45.429828,147.138234
+"livy.oct01-05.txt","Livy",-713318,"History","P",88503,59.31434,179.40628
+"livy.oct06-10.txt","Livy",-713318,"History","P",70779,60.614321,180.596533
+"livy.oct21-25.txt","Livy",-713318,"History","P",76134,59.354112,181.163895
+"livy.oct26-30.txt","Livy",-713318,"History","P",76703,58.645646,179.570473
+"luc.pharsalia_lat.txt","Lucan",-695786,"Epic","V",51075,51.608908,156.590308
+"lucretius_lat.txt","Lucretius",-739616,"Epic","V",49022,72.191628,199.378973
+"martial_lat.txt","Martial",-682273,"Misc","V",56232,49.754019,154.601224
+"minfel.octav_lat.txt","Minucius Felix",-661089,"Misc","P",11633,57.540359,179.036706
+"nep.lives_lat.txt","Nepos",-728659,"Misc","P",28387,59.520661,178.152887
+"ovid.am_lat.txt","Ovid",-713318,"Elegy","V",62139,53.056229,164.417226
+"ovid.fast_lat.txt","Ovid",-713318,"Misc","V",31285,52.412178,162.264024
+"ovid.ibis_lat.txt","Ovid",-713318,"Misc","V",4033,57.517233,166.85693
+"ovid.met_lat.txt","Ovid",-713318,"Epic","V",78097,57.619409,171.579011
+"ovid.pont_lat.txt","Ovid",-713318,"Elegy","V",20742,51.598592,155.072606
+"ovid.tr_lat.txt","Ovid",-713318,"Elegy","V",22762,51.983042,159.541165
+"persius.sat_lat.txt","Persius",-696882,"Satire","V",4458,46.330642,143.132346
+"petr_lat.txt","Petronius",-695421,"Novel","P",32742,47.317146,150.22039
+"phaedrus.fables_lat.txt","Phaedrus",-701265,"Misc","V",11000,44.727273,143.272727
+"pl.am_lat.txt","Plautus",-786733,"Comedy","V",9332,85.369481,229.354479
+"pl.as_lat.txt","Plautus",-786733,"Comedy","V",7625,80.967213,216.622951
+"pl.aul_lat.txt","Plautus",-786733,"Comedy","V",6546,81.951421,220.731439
+"pl.bac_lat.txt","Plautus",-786733,"Comedy","V",9444,79.68615,220.045743
+"pl.capt_lat.txt","Plautus",-786733,"Comedy","V",8293,86.905462,228.917641
+"pl.cas_lat.txt","Plautus",-786733,"Comedy","V",7175,83.599303,225.874564
+"pl.cist_lat.txt","Plautus",-786733,"Comedy","V",4991,87.158686,237.430976
+"pl.cur_lat.txt","Plautus",-786733,"Comedy","V",5718,79.272823,217.832109
+"pl.epid_lat.txt","Plautus",-786733,"Comedy","V",5982,90.273821,244.238716
+"pl.men_lat.txt","Plautus",-786733,"Comedy","V",8937,82.808884,219.998433
+"pl.mer_lat.txt","Plautus",-786733,"Comedy","V",7995,83.552846,229.269543
+"pl.mil_lat.txt","Plautus",-786733,"Comedy","V",11815,87.192975,232.27846
+"pl.mos_lat.txt","Plautus",-786733,"Comedy","V",8908,74.213291,207.699147
+"pl.per_lat.txt","Plautus",-786733,"Comedy","V",7182,75.441103,208.944027
+"pl.poen_lat.txt","Plautus",-786733,"Comedy","V",10704,78.409567,221.748132
+"pl.ps_lat.txt","Plautus",-786733,"Comedy","V",10469,84.490496,229.445219
+"pl.rud_lat.txt","Plautus",-786733,"Comedy","V",11040,80.34058,220.554348
+"pl.st_lat.txt","Plautus",-786733,"Comedy","V",5926,85.39892,225.809652
+"pl.trin_lat.txt","Plautus",-786733,"Comedy","V",9342,83.885463,227.501177
+"pl.truc_lat.txt","Plautus",-786733,"Comedy","V",7828,79.224834,215.935616
+"plinymaj.nh_lat.txt","Pliny the Elder",-690673,"Misc","P",397461,54.497269,169.143835
+"plinymin.letters_lat.txt","Pliny the Younger",-678621,"Misc","P",67128,56.204147,175.705279
+"prop_lat.txt","Propertius",-725006,"Elegy","V",25314,42.651734,136.500435
+"quint.butler1-3_lat.txt","Quintilian",-683003,"Misc","P",45356,53.832878,171.604374
+"quint.butler10-12_lat.txt","Quintilian",-683003,"Misc","P",40693,52.891333,172.083995
+"quint.butler4-6_lat.txt","Quintilian",-683003,"Misc","P",41361,55.06731,175.244264
+"quint.butler7-9_lat.txt","Quintilian",-683003,"Misc","P",45244,54.233843,174.841128
+"sallust.catil_lat.txt","Sallust",-732311,"History","P",10716,58.723778,179.131019
+"sallust.jugur_lat.txt","Sallust",-732311,"History","P",21346,52.827415,158.685843
+"sen.ag_lat.txt","Seneca the Younger",-695786,"Tragedy","V",5454,56.205721,164.666667
+"sen.apoc_lat.txt","Seneca the Younger",-695786,"Novel","P",2997,57.058058,162.497831
+"sen.ben_lat.txt","Seneca the Younger",-695786,"Misc","P",45837,51.272182,163.281323
+"sen.brev.vit_lat.txt","Seneca the Younger",-695786,"Misc","P",6201,52.378487,166.682471
+"sen.cl_lat.txt","Seneca the Younger",-695786,"Misc","P",8386,58.146196,176.511805
+"sen.cons.helv_lat.txt","Seneca the Younger",-695786,"Misc","P",6780,57.99705,175.728614
+"sen.cons.marc_lat.txt","Seneca the Younger",-695786,"Misc","P",8253,54.373803,169.695141
+"sen.cons.polyb_lat.txt","Seneca the Younger",-695786,"Misc","P",5686,53.695744,168.770313
+"sen.const_lat.txt","Seneca the Younger",-695786,"Misc","P",5301,57.668176,177.400113
+"sen.ep_lat.txt","Seneca the Younger",-695786,"Epistle","P",119733,57.680564,180.105184
+"sen.her.f_lat.txt","Seneca the Younger",-695786,"Misc","V",7504,49.906183,152.584222
+"sen.her.o_lat.txt","Seneca the Younger",-695786,"Tragedy","V",11161,41.20052,140.908342
+"sen.ira_lat.txt","Seneca the Younger",-695786,"Misc","P",22466,55.841449,175.735244
+"sen.med_lat.txt","Seneca the Younger",-695786,"Tragedy","V",5559,51.88721,163.137615
+"sen.oct_lat.txt","Seneca the Younger",-695786,"Tragedy","V",5104,49.940439,157.678683
+"sen.oed_lat.txt","Seneca the Younger",-695786,"Tragedy","V",5774,50.437478,159.759612
+"sen.ot.sap_lat.txt","Seneca the Younger",-695786,"Misc","P",1969,55.881666,167.121381
+"sen.phaed_lat.txt","Seneca the Younger",-695786,"Tragedy","V",7070,48.222065,151.182461
+"sen.phoen_lat.txt","Seneca the Younger",-695786,"Tragedy","V",4073,50.559047,160.779278
+"sen.prov_lat.txt","Seneca the Younger",-695786,"Misc","P",4099,56.331056,175.360332
+"sen.thy_lat.txt","Seneca the Younger",-695786,"Tragedy","V",6166,46.518651,150.935452
+"sen.tranq_lat.txt","Seneca the Younger",-695786,"Misc","P",7571,57.116497,173.934487
+"sen.tro_lat.txt","Seneca the Younger",-695786,"Tragedy","V",6687,55.078959,164.741439
+"sen.vit.beat_lat.txt","Seneca the Younger",-695786,"Misc","P",7303,54.730522,172.448857
+"seneca.contr_lat.txt","Seneca the Elder",-705283,"Misc","P",65247,55.033228,170.529005
+"seneca.excer_lat.txt","Seneca the Elder",-705283,"Misc","P",21105,55.905946,171.134328
+"seneca.frag_lat.txt","Seneca the Elder",-705283,"Misc","P",136,50.470588,174.470588
+"seneca.suas_lat.txt","Seneca the Elder",-705283,"Misc","P",10161,50.864974,160.976085
+"silius.punica_lat.txt","Silius Italicus",-681908,"Epic","V",76411,53.704166,163.028595
+"stat.achill_lat.txt","Statius",-684464,"Epic","V",7206,44.101304,138.022204
+"stat.silvae_lat.txt","Statius",-684464,"Misc","V",24995,42.328666,139.028206
+"stat.theb_lat.txt","Statius",-684464,"Epic","V",62446,44.046921,143.229478
+"suet.caes_lat.txt","Suetonius",-674968,"Misc","P",70409,55.55527,171.82721
+"tac.ag_lat.txt","Tacitus",-676794,"Misc","P",6783,53.695562,165.624945
+"tac.ann_lat.txt","Tacitus",-676794,"History","P",88918,51.958906,163.25338
+"tac.dial_lat.txt","Tacitus",-676794,"Misc","P",9351,57.389477,185.466581
+"tac.ger_lat.txt","Tacitus",-676794,"Misc","P",5559,57.103976,181.486239
+"tac.hist_lat.txt","Tacitus",-676794,"History","P",51489,50.952844,159.976344
+"ter.ad_lat.txt","Terence",-777601,"Comedy","V",8172,64.956926,193.912873
+"ter.an_lat.txt","Terence",-777601,"Comedy","V",8179,60.621225,176.872723
+"ter.eu_lat.txt","Terence",-777601,"Comedy","V",8988,60.971518,184.582109
+"ter.hau_lat.txt","Terence",-777601,"Comedy","V",8825,64.495751,191.087819
+"ter.hec_lat.txt","Terence",-777601,"Comedy","V",7387,64.249763,187.116015
+"ter.ph_lat.txt","Terence",-777601,"Comedy","V",8532,64.752461,184.708861
+"tert.apol_lat.txt","Tertullian",-637348,"Misc","P",20006,53.83355,173.797261
+"tert.spect_lat.txt","Tertullian",-637348,"Misc","P",6383,53.04982,182.239386
+"tibullus.el_lat.txt","Tibullus",-726467,"Elegy","V",12352,48.870466,155.302461
+"v.fl_lat.txt","Valerius Flaccus",-686655,"Epic","V",37186,55.580433,165.939547
+"verg.a_lat.txt","Virgil",-726467,"Epic","V",63686,63.09572,186.59718
+"verg.ecl_lat.txt","Virgil",-726467,"Misc","V",5619,55.5937,160.662395
+"verg.g_lat.txt","Virgil",-726467,"Epic","V",14174,51.208269,161.679977
+"vitruv_lat.txt","Vitruvius",-725006,"Misc","P",57872,63.98825,193.448576

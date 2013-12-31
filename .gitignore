@@ -1,7 +1,10 @@
 
 data/original/hopper-texts-GreekRoman.tar.gz
 data/process/
+<<<<<<< HEAD
 data/convert/
 data/converted/
 hold/
 code/.Rhistory
+=======
+>>>>>>> 2b3f08a30c9e56472e86855c7aceba93d66b6d95

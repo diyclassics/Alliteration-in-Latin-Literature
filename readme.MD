@@ -1,4 +1,4 @@
-# Distant Reading Allitetation in Latin Literature
+# Distant Reading Alliteration in Latin Literature
 
 ## Description
 - This repository contains the code and data files used in the study "Distant Reading Alliteration in Latin Literature" presented at the American Philological Association Annual Meeting 2014 Poster Session in Chicago, Il.
